@@ -1,0 +1,290 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta content="text/html; charset=UTF-8" http-equiv="content-type">
+    <meta name="viewport" content="width=device-width">
+    <title>Android Xamarin USB Host</title>
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src="jquery-migrate.min.js"></script>
+    <script type="text/javascript" src="owl.carousel.js"></script>
+    <meta name="generator" content="WordPress 4.1.1">
+    <script type="text/javascript">
+    jQuery(document).ready(function() {
+      jQuery("#owl-demo").owlCarousel({
+        autoPlay: true,
+        items : 4,
+        itemsDesktop : [1199,3],
+        itemsDesktopSmall : [979,3]
+      });
+
+    });
+    </script>
+    <link rel="stylesheet" type="text/css" href="subpage.css" media="all">
+  </head>
+  <body class="page page-child  page-template page-template-page-templates page-template-full-width-page page-template-page-templatesfull-width-page-php custom-background not-multi-author">
+    <div id="page" class="hfeed site">
+      <header id="masthead" class="site-header" role="banner">
+        <div class="site-branding">
+          <div class="site-image"> <a indepth="true" href="index.html" title="Ermers Consultancy"
+              rel="home" class="header-image-link"> <img src="images/header2.jpg"
+                alt="" height="108" width="320"> </a> </div>
+          <!-- .header-image -->
+          <h1 class="site-title"><a indepth="true" href="index.html" title="Ermers Consultancy"
+              rel="home">Ermers Consultancy</a></h1>
+          <h2 class="site-description">Ermers Consultancy</h2>
+        </div>
+        <!-- .site-branding -->
+        <nav id="site-navigation" class="main-navigation" role="navigation">
+          <h1 class="menu-toggle">Menu</h1>
+          <div class="screen-reader-text skip-link"><a href="#content" title="Skip to content">Skip
+              to content</a></div>
+          <div class="menu-ruudmenu-container">
+            <ul id="menu-ruudmenu" class="menu nav-menu">
+              <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
+                  indepth="true" href="index.html">Ermers Consultancy</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a
+                  indepth="true" href="courses.html">Courses</a>
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="cpp_and_uml.html">C++ and UML</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="cprogramming_and_os.html">C programming and
+                      Operating Systems</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="oop_and_ood.html">Object Oriented Programming and
+                      design</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="device_drivers.html">Device Drivers</a></li>
+                </ul>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a
+                  indepth="true" href="projects.html">Projects</a>
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="embedded_webserver.html">Embedded Webserver on ARM9</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="lowpower_iot.html">Research on low power solutions
+                      for internet connected Embedded Systems</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="certificate_services_in_dotnet.html">Certificate
+                      Services in .NET</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="embedded_linux.html">Embedded Linux for Small
+                      Medium-Sized Business</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="remote_controlled_car.html">Android/Arduino remote
+                      controlled car (Educational Project)</a></li>
+                </ul>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a
+                  indepth="true" href="iot.html">Internet Of Things</a>
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="home_automation.html">Home Automation with Android
+                      and small embedded systems</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="multiroom_media_system.html">Android based multiroom
+                      media system (Educational project)</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="voice_control.html">Voice controlled services for
+                      remote operation of DLNA/Upnp devices</a></li>
+                </ul>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a
+                  indepth="true" href="midi_vst.html">MIDI/VST</a>
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="crumar_ds2.html">Antique Crumar DS2 as controller
+                      for Cubase</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="vcb_midi_stem.html">Virtual Controller Based MIDI
+                      System</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="vst_loader.html">VST Loader</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="moog960.html">Moog 960 Software emulation</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="crumar_ds2_totall_recall.html">Crumar DS2 now Total
+                      Recall</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="total_recall_lead_synth.html">Total Recall Lead
+                      Synth Setup</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="casio_stuff.html">Android Xamarin USB Host</a></li>
+                </ul>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a
+                  indepth="true" href="contact.html">Contact</a> </li>
+            </ul>
+          </div>
+        </nav>
+        <!-- #site-navigation --> </header>
+      <!-- #masthead -->
+      <div id="content" class="site-content">
+        <div id="primary" class="content-area full-width">
+          <div id="content" class="site-content" role="main">
+            <article id="post-32" class="post-32 page type-page status-publish hentry">
+              <header class="entry-header">
+                <h1 class="entry-title">Android Xamarin USB Host </h1>
+              </header>
+              <!-- .entry-header -->
+              <div class="entry-content">
+                <p>I recently acquired some Casio keyboards for an alternative
+                  setup. The idea was to build a setup with a master keyboard
+                  (WK1200) and a lead keyboard (XP-W1). It turned out the XP-W1
+                  is a very versatile and a fantastic multitimbral midikeyboard.</p>
+                <div style="text-align: center;"><img style="width: 443px; height: 252px;"
+                    title="XP-W1" alt="XP-W1" src="images/casioxw-p1.jpg"></div>
+                <p> I modified the WK1200 keyboard with an OLED display, some
+                  knobs and a Arduino Mega 2560 to make it possible to send
+                  patch changes for both keyboards. However, it was a somewhat
+                  clumsy interface so I decided to grab an Android Tablet to
+                  make a nicer control device. First, I wanted to interface the
+                  Android tablet with the WK1200, eg. over Bluetooth, Wireless
+                  or Android Accesory mode. But then I thought it should be
+                  possible to control the XP-W1 from a tablet directly, where
+                  the tablet is in USB Host mode. I had done things like that in
+                  the past, on PC based systems. But this time, on to Android. I
+                  decided to do some tests on Android development as that was
+                  quite some time ago. Here are my results:</p>
+                <ul>
+                  <li>Android Studio: This is for me the default Android Java
+                    IDE. I tried to create an application with a button with an
+                    OnClick event, designing the form in the UI designer. Now
+                    this has improved a lot since my past Android experiences!
+                    But still, adding the event handler still needs to be done
+                    manually and I again saw a lot of code to do some simple
+                    things. It's just not my cup of tea.</li>
+                  <li>Xamarin. Xamarin is free now and can be used in one of my
+                    favorite IDEs, Visual Studio. As you may know it uses C# as
+                    programming language. As a windows UI programmer this is
+                    much easier to handle. Unfortunately at the moment of
+                    writing there is no nice UI designer for Xamarin.Forms so
+                    XAML is the only possibility, unless you create the UI in
+                    code. I have opted for the latter, since I am writing a
+                    simple application. I even omitted the MVVM pattern, because
+                    when you create the UI yourself, that also needs to be done.
+                    So, no binding, just a simple programming model, not unlike
+                    Delphi's paradigm.</li>
+                  <li>There are quite a lot Xamarin examples to be found and the
+                    seperation of Android specific code and Xamarin.Forms is
+                    really workout great. I created my own Depency Injection
+                    system, but the provided one is ok as well. </li>
+                  <li>Unfortunately there are quite a few bugs in Xamarin when
+                    deploying to several devices at once. This maybe also
+                    Android related.</li>
+                  <li>If I had to start again, I think I would opt for the
+                    Android Java way.</li>
+                </ul>
+                <p>But for now, it's Xamarin and the interesting part now
+                  follows: There are a few examples on USB Host with Android,
+                  but almost none with Xamarin. Note that my tablets are
+                  somewhat older and running Jellybean, so I could not use the
+                  new MIDI layer. But for study, that's more interesting!</p>
+                <p>So, the crucial part of the USB Host connection are a few
+                  concepts:</p>
+                <ul>
+                  <li>Finding the USB Device (in our case the Casio XP-W1)</li>
+                  <li>Getting the correct endpoints</li>
+                  <li>Write to an endpoint</li>
+                  <li>Read from an endpoint (if necessary)</li>
+                </ul>
+                <p>So let's look at the various parts:</p>
+                <p>First, before finding the devices, USB Host should be
+                  enabled. This involves that some permissions are granted on
+                  your tablet and that the user grants the use of device. The
+                  first part, is part of your tablet setup. For me it meant I
+                  had to root my tablet and put some permission files on it (See
+                  <a href="http://stackoverflow.com/questions/30274244/how-to-add-android-hardware-usb-host-xml-inside-system-etc-permissions-in-andro">here</a>
+                  for how to do this). </p>
+                <p>The software to achieve our goal should reside in the Droid
+                  part of your application</p>
+                <p>Finding the usbDevice is by examining the Usb Device tree: </p>
+                <pre><span style="font-family: monospace;">
+UsbManager manager = (UsbManager)GetSystemService(Context.UsbService);
+const int VENDOR_ID = 0x07CF;
+const int PRODUCT_ID = 0x6803;
+var matchingDevice = manager.DeviceList.FirstOrDefault(item =&gt; item.Value.VendorId == VENDOR_ID &amp;&amp; item.Value.ProductId == PRODUCT_ID);
+return matchingDevice.Value;
+</span></pre><br>
+                If the device is missing, null will be returned. But if
+                successful, we can proceed: We first have to check permissions
+                and open a dialog if they have not been granted (yet)
+                <pre><span style="font-family: monospace;">
+if (!manager.HasPermission(usbDevice))
+      manager.RequestPermission(usbDevice, null);
+</span></pre><br>
+                <p>Now, the Casio XP-W1 has a few interfaces, which you can
+                  check with some USB viewer. It turns out we need interface 1,
+                  which has two endpoints, endpoint 0 for writing and endpoint 1
+                  for reading: </p>
+                <pre><span style="font-family: monospace;">                
+usbInterface = usbDevice.GetInterface(1);
+usbDeviceConnection.ClaimInterface(usbInterface, true);
+endpointOut = usbInterface.GetEndpoint(0);
+endpointIn = usbInterface.GetEndpoint(1);
+</span></pre><br>
+                <p>We now can write to the device with a bulktransfer like: </p>
+                <pre><span style="font-family: monospace;">                
+private bool WriteBuffer(byte[] buffer)
+int written = usbDeviceConnection.BulkTransfer(endpointOut, buffer, buffer.Length, 500);
+</span></pre><br>
+                <p>But, we are not there yet... In my case I want to write
+                  several things to the XP-W1, like Program changes, Control
+                  changes and even SysEx messages.</p>
+                <p>Note that the endpoint does not use midi directly, but is
+                  close. See example here for the JAVA version of this stuff: <a
+                    href="https://github.com/kshoji/USB-MIDI-Driver">USB-MIDI-Driver</a>.</p>
+                <p>Here I will only show how to send a program change, see the
+                  code for all other possibilities. Just pre-attached the byte =
+                  12 to your message. Since the total of bytes does not exceed 4
+                  this can be send as one message. Things become harder (or more
+                  interesting? with sysex messages). Anyway:</p>
+                <pre><span style="font-family: monospace;">                
+private bool WritePRG(int midi, byte program)
+{
+  byte[] buffer = new byte[3];
+  buffer[0] = 12;
+  buffer[1] = (byte)(0xC0 + midi);
+  buffer[2] = program;
+  return WriteBuffer(buffer);
+}
+</span></pre><br>
+                <p>That's all for writing to the device. I have not developed
+                  reading from the device completely, but in the code you can
+                  see it not too difficult: Just run an extra read thread and do
+                  bulkTransfers on the endpointIn. Offcourse, you must implement
+                  the midi protocol here as well.&nbsp; </p>
+                <p>The code is available at GitHub on my account.</p>
+                <br>
+                <ul>
+                </ul>
+                <h3>&nbsp;Techniques Used</h3>
+                <ul>
+                  <li>Xamarin, C#, Dependency injection.</li>
+                  <li>USB Host protocol, MIDI protocol</li>
+                  <li>IDEs used: Visual Studio with Xamarin extension</li>
+                </ul>
+              </div>
+              <!-- .entry-content --> </article>
+            <!-- #post-## --> </div>
+          <!-- #content -->
+          <footer id="colophon" class="site-footer">
+            <div id="footer-navbar" class="footer-navbar">
+              <nav id="secondary-navigation" class="subordinate-navigation" role="navigation">
+                <ul id="menu-footmenu" class="menu">
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a
+                      indepth="true" href="index.html">Ermers Consultancy</a></li>
+                  <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
+                      indepth="true" href="contact.html">Contact</a></li>
+                </ul>
+              </nav>
+              <!-- #secondary-navigation --> </div>
+            <!-- #footer-navbar --> </footer>
+          <!-- #colophon --> </div>
+        <!-- #page -->
+        <script type="text/javascript" src="navigation.js"></script>
+        <script type="text/javascript" src="skip-link-focus-fix.js"></script> </div>
+    </div>
+  </body>
+</html>

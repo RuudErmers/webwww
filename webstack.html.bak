@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Case study: Webstack modern technologies</title>
+    <script type="text/javascript" src="jquery.js"></script>
+    <script type="text/javascript" src="jquery-migrate.min.js"></script>
+    <script type="text/javascript" src="owl.carousel.js"></script>
+    <meta name="generator" content="WordPress 4.1.1">
+    <script type="text/javascript">
+    jQuery(document).ready(function() {
+      jQuery("#owl-demo").owlCarousel({
+        autoPlay: true,
+        items : 4,
+        itemsDesktop : [1199,3],
+        itemsDesktopSmall : [979,3]
+      });
+
+    });
+    </script>
+    <link rel="stylesheet" type="text/css" href="subpage.css" media="all">
+  </head>
+  <body class="page page-child  page-template page-template-page-templates page-template-full-width-page page-template-page-templatesfull-width-page-php custom-background not-multi-author">
+    <div id="page" class="hfeed site">
+      <header id="masthead" class="site-header" role="banner">
+        <div class="site-branding">
+          <div class="site-image"> <a indepth="true" href="index.html" title="Ermers Consultancy"
+              rel="home" class="header-image-link"> <img src="images/header2.jpg"
+                alt="" height="108" width="320"> </a> </div>
+          <!-- .header-image -->
+          <h1 class="site-title"><a indepth="true" href="index.html" title="Ermers Consultancy"
+              rel="home">Ermers Consultancy</a></h1>
+          <h2 class="site-description">Ermers Consultancy</h2>
+        </div>
+        <!-- .site-branding -->
+        <nav id="site-navigation" class="main-navigation" role="navigation">
+          <h1 class="menu-toggle">Menu</h1>
+          <div class="screen-reader-text skip-link"><a href="#content" title="Skip to content">Skip
+              to content</a></div>
+          <div class="menu-ruudmenu-container">
+            <ul id="menu-ruudmenu" class="menu nav-menu">
+              <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
+                  indepth="true" href="index.html">Ermers Consultancy</a></li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a
+                  indepth="true" href="projects.html">Projects</a>
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="webstack.html">Case study: Webstack modern
+                      technologies</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="embedded_webserver.html">Embedded Webserver on ARM9</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="certificate_services_in_dotnet.html">Certificate
+                      Services in .NET</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="lowpower_iot.html">Research on low power solutions
+                      for internet connected Embedded Systems</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="embedded_linux.html">Embedded Linux for Small
+                      Medium-Sized Business</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="remote_controlled_car.html">Android/Arduino remote
+                      controlled car (Educational Project)</a></li>
+                </ul>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a
+                  indepth="true" href="iot.html">Internet Of Things</a>
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="home_automation.html">Home Automation with Android
+                      and small embedded systems</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="multiroom_media_system.html">Android based multiroom
+                      media system (Educational project)</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="voice_control.html">Voice controlled services for
+                      remote operation of DLNA/Upnp devices</a></li>
+                </ul>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a
+                  indepth="true" href="courses.html">Courses</a>
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="cpp_and_uml.html">C++ and UML</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="cprogramming_and_os.html">C programming and
+                      Operating Systems</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="oop_and_ood.html">Object Oriented Programming and
+                      design</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="device_drivers.html">Device Drivers</a></li>
+                </ul>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a
+                  indepth="true" href="midi_vst.html">MIDI/VST</a>
+                <ul class="sub-menu">
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="crumar_ds2.html">Antique Crumar DS2 as controller
+                      for Cubase</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="vcb_midi_stem.html">Virtual Controller Based MIDI
+                      System</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="vst_loader.html">VST Loader</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="moog960.html">Moog 960 Software emulation</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="crumar_ds2_totall_recall.html">Crumar DS2 now Total
+                      Recall</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="total_recall_lead_synth.html">Total Recall Lead
+                      Synth Setup</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="casio_stuff.html">Android Xamarin USB Host</a></li>
+                  <li class="menu-item menu-item-type-post_type"><a indepth="true"
+                      href="xrecds2.html">Crumar DS2 VST</a></li>
+                </ul>
+              </li>
+              <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children"><a
+                  indepth="true" href="contact.html">Contact</a> </li>
+            </ul>
+          </div>
+        </nav>
+        <!-- #site-navigation --> </header>
+      <!-- #masthead -->
+      <div id="content" class="site-content">
+        <div id="primary" class="content-area grid-page-content-area full-width">
+          <div id="content" class="site-content" role="main">
+            <article id="post-5" class="post-5 page type-page status-publish hentry">
+              <header class="entry-header">
+                <h1 class="entry-title">Case study: Webstack modern technologies</h1>
+              </header>
+              <!-- .entry-header -->
+              <div class="entry-content">
+                <p>Ermers Consultancy was asked to give an overview over modern
+                  technologies used in Full Webstack development. In the past
+                  Ruud Ermers worked privately on a multimedia system and this
+                  served as a case for this assignment. In the following I
+                  present, in short, the multimedia system and several ways to
+                  connect this system to the outside (and inside) world.
+                  Technologies discussed will be back-end development in Object
+                  Pascal, C# and Javascript and frontend develpment in C#
+                  (Xamarin), javascript, typescript and java (Android). Also
+                  considered are desktop implementations in various
+                  technologies.</p>
+                <h1 class="entry-title">The system: A multimedia system </h1>
+                <p>The multimedia system consists of a multi-room audio system.
+                  The system is running on one PC, with 4 internal audiocards
+                  which serve audio to various rooms. Moreover, with extra
+                  Android clients this can be extended to an unlimited number of
+                  audio clients. There is a number of host applications which
+                  enable this system: There are audioplayers which can play
+                  audio over one or more audio cards, there are audiobrowsers
+                  with which you can browse the audio collection (hosted on a
+                  local harddrive). The system can play individual audio in each
+                  room, but they can also be synchronized. Lastly, there is a
+                  http-server interface which can control the various options
+                  for all attached audioplayers, like pausing, exposing the
+                  mediafiles, selecting an audiofile or audiofolder. </p>
+                <p>In this case study, the most important interface is the
+                  http-server, which was written in Delphi a long time ago, but
+                  is still maintained (e.g. to serve JSON data besides XML). It
+                  listens on an internal port and can not be reached from the
+                  web.</p>
+                <h1 class="entry-title">The back-end: Webserver choices.</h1>
+                <p><br>
+                </p>
+                <p>The webserver needed for the full systems has the following
+                  requirements: It should implement Virtual Paths, should be
+                  able to forward requests to another server and serve requests
+                  doing some scripting. Of course, things like security, speed,
+                  maintainability are a must.</p>
+                <p>I have implemented three different webserver technologies,
+                  i.e. Abyss Web server, Node.js and ASP.Net Core. </p>
+                <ol>
+                  <li>
+                    <h2 class="entry-title">1. Abyss Web server.</h2>
+                  </li>
+                  <li>
+                    <p><span style="color: #666666;"><span style="font-family: &quot;Droid Serif&quot;,Georgia,serif;">For
+                          this case study, Abyss webserver is not very
+                          interesting. It is a very robust webserver, with
+                          Virtual Paths, security and many options, configurable
+                          from a web interface. I used this in the past, to
+                          connect my multimedia-server directly to the webserver
+                          using FAST-CGI. At one point I decided to have a
+                          programmable server instead of a configurable server.
+                          Nevertheless, an interesting product.</span></span></p>
+                  </li>
+                  <li><span style=" color: #666666;"><span style=" font-family: &quot;Droid Serif&quot;,Georgia,serif;"><br>
+                      </span></span></li>
+                  <li>
+                    <h2 class="entry-title">2. Node.js</h2>
+                  </li>
+                  <li>
+                    <p><span style="color: #666666;"><span style="font-family: &quot;Droid Serif&quot;,Georgia,serif;">Node.js
+                          is a popular webserver technology. Development is done
+                          in Javascript, not my favorite language. Setup is very
+                          easy. Development can be done from Visual Studio with
+                          full intelligence. After the first strugglings,
+                          Node.js turns out to be a very easy to use
+                          environment.During development the server can be
+                          stopped and started quickly, giving very short
+                          development cycles. In fact, Node.js is my choice for
+                          the webserver.</span></span></p>
+                  </li>
+                  <li><span style=" color: #666666;"><span style=" font-family: &quot;Droid Serif&quot;,Georgia,serif;"><br>
+                      </span></span></li>
+                  <li>
+                    <h2 class="entry-title">3. ASP.NET Core.<br>
+                    </h2>
+                  </li>
+                  <li>
+                    <p><span style="color: #666666;"><span style="font-family: &quot;Droid Serif&quot;,Georgia,serif;">I
+                          only touched this technology from the surface. The
+                          great advantage of ASP.NET Core over Node.js is that
+                          development can be done in C#. This is a big plus over
+                          Node.js Javascript. Setup is also very easy and
+                          development can be done from Visual Studio as well.
+                          You can also develop from Visual Code. As I only did
+                          some basic research, I struggle to get things going.
+                          On the internet there is quite some help, but many
+                          examples refer not to the latest technology. I find
+                          the Microsoft documentation, although very thorough,
+                          difficult to read, without many examples. Cross domain
+                          policies have been better addressed than in Node.js,
+                          so security (as stated by the developers) is an
+                          important plus. <br>
+                        </span></span></p>
+                  </li>
+                </ol>
+                <h1 class="entry-title">The front-end: Web development.</h1>
+                <p><br>
+                </p>
+                <p>First off, I am not a designer and i don't like HTML and CSS.
+                  Therefor, I am still looking for client technologies which go
+                  beyond that. Moreover, you will not be impressed by my user
+                  interfaces. Here is one from a jquery frontend: </p>
+                <div style="text-align: center;"><img src="images/remoteweb.jpg"
+                    alt="" style="width: 457px; height: 319px;"></div>
+                <ol>
+                  <li>
+                    <p>So, for the frontend the above picture will be the target
+                      to implement. We can see some selections icons, a picture
+                      from the current album (in the Ruud's room), see the
+                      tracks, volume and some more. Many are clickable, e.g. to
+                      select a track, or another room. You can also browse the
+                      collection. Remember that the back-end will serve the
+                      needed data (model) to generate the view. Since the view
+                      changes every second, many requests to the server are
+                      fired. The communication protocol is pretty much REST
+                      based (but was allready established years ago, using a
+                      mapping to classes) and served in JSON format. So let's
+                      discuss some webtechnologies on how to implement this, and
+                      take a look at some other technologies for remote
+                      control&nbsp; (phone, table) as well. </p>
+                  </li>
+                  <li>Before continuing, I will only investigate on client side
+                    technologies only. We see a clear drifting away from e.g.
+                    ASP.NET where there is a lot of interaction between the
+                    (dedicated) server and the webclient. (e.g. every click is
+                    forwarded to the server, maintaining a 'viewbag' state for
+                    each client).</li>
+                </ol>
+                <ol>
+                  <li>
+                    <h2 class="entry-title">1. JQuery.</h2>
+                  </li>
+                </ol>
+                <ol>
+                  <li>
+                    <p></p>
+                    <p><span style="color: #666666;"><span style="font-family: &quot;Droid Serif&quot;,Georgia,serif;">
+                          JQuery is used to make web design easier. It abstracts
+                          away browser incompatibilities and gives us an easier
+                          to use javascript framework, with amongs other things,
+                          an easy AJAX implementation. With jquery it becomes
+                          easier to split web development between javascript
+                          designers and UI (HTML/CSS) designers. Since I am not
+                          a UI designer,&nbsp; I embraced Jquery, as many
+                          others. However, it is still javascript development,
+                          and for OO-designers there is still a lot to wish for.</span></span></p>
+                  </li>
+                  <li><br>
+                  </li>
+                  <li>
+                    <h2 class="entry-title">2. Angular 4.</h2>
+                  </li>
+                  <li>
+                    <p><span style="color: #666666;"><span style="font-family: &quot;Droid Serif&quot;,Georgia,serif;">Angular
+                          4 (or 5) is a framework for client side
+                          webdevelopment. It uses typescript as language instead
+                          of javascript and comes with full support for testing,
+                          debugging, easy maintenance. With typescript you
+                          finally have a (limited) OO language to develop with.
+                          The learning curve is somewhat steep, although there
+                          are some really good tutorials to get you going. The
+                          framework implements MVC (or 'even' MVVM) and
+                          separates UI design and OO development much better
+                          than e.g. JQuery. The development cycle is very short:
+                          Changes in your code are almost immediately reflect in
+                          the browser. That's nice. Still, there are some things
+                          missing. Typescript just isn't a full fledged OO
+                          language and somehow you still feel that it is just a
+                          javascript wrapper technology. I was surprised when I
+                          found out that you can't just run an Angular site from
+                          a webserver, but first have to build your project into
+                          a /dist distribution.&nbsp; This leaves the question
+                          why there still not is a platform to do C#
+                          development.</span></span></p>
+                  </li>
+                  <li><br>
+                  </li>
+                  <li>
+                    <h2 class="entry-title">3. Other webtechnologies like VueJS
+                      or React.</h2>
+                  </li>
+                  <li>
+                    <p><span style="color: #666666;"><span style="font-family: &quot;Droid Serif&quot;,Georgia,serif;">I
+                          have not worked with these technologies. After reading
+                          on how these frameworks work, I decided not to use
+                          them. Both of them are based on javascript.</span></span></p>
+                  </li>
+                  <li><br>
+                  </li>
+                  <li>
+                    <h2 class="entry-title">4. Android.</h2>
+                  </li>
+                  <li><br>
+                  </li>
+                  <li>I will finish off with some other ways of interacting with
+                    my multimedia system. I will skip development for PC, since
+                    the possibilities there are allmost infinite. I have coded
+                    my remote example in Delphi, C# WinForms, C# Wpf. I will
+                    also skip development for IOS, because, I am sorry to say, I
+                    am not interested in anything that is Apple - related (I
+                    once had an Ipod, but it was running rockbox). So that
+                    leaves us Android.</li>
+                  <li><br>
+                  </li>
+                  <li>
+                    <p><span style="color: #666666;"><span style="font-family: &quot;Droid Serif&quot;,Georgia,serif;">Android
+                          development has come a long way since the early days
+                          where you had to code in Eclipse, define all your UIs
+                          with XML and ADB bridge was still 'in development'. I
+                          was pleasantly surprised some time ago when upgrading
+                          to Android Studio 3. Although downloading and
+                          installing takes ages (but is still faster than Visual
+                          Studio Installer), converting my old remote control
+                          project worked smoothly. Moreover, the IDE is very
+                          nice to use, and comes close to Visual Studio. I hope
+                          my days with struggling with Eclipse are finally over.
+                          Also, with JAVA 8, Android makes it possible to use
+                          lambda functions, which is nice to have for http
+                          requests. The debugger is very reliable and so is ADB.
+                          There is also a GUI designer, making development
+                          comparable with desktop development. For new
+                          developers (with a background in HTML/CSS) I think
+                          JAVA/Android is still a steep mountain to climb, but
+                          for people with a OO background it will be very
+                          familiar.&nbsp;&nbsp;</span></span></p>
+                  </li>
+                  <li><br>
+                  </li>
+                  <li class="entry-title">5. Xamarin.</li>
+                  <li>
+                    <p><span style="color: #666666;"><span style="font-family: &quot;Droid Serif&quot;,Georgia,serif;">With
+                          Xamarin you can build C# applications, targeting UWP,
+                          IOS and Android. Xamarin is available in Visual Studio
+                          as a plugin. I have build a few applications in
+                          Xamarin, also for customers. Although it all sounds
+                          very promising, and is an adventure in its own, I am
+                          not convinced this is the way to go. As a C#
+                          programmer I like the fact I can code in that language
+                          and re-use a lot of code, and the integration with
+                          Android is really first class. But Xamarin is still
+                          missing a good Form designer, so I had to create the
+                          full user interface from code. Furthermore, execution
+                          speed is just low compared to native development and
+                          although debugging is possible, I had a lot of issues,
+                          with many different tablets/phones. Not recommended
+                          for Android development.<br>
+                        </span></span></p>
+                  </li>
+                </ol>
+              </div>
+              <div class="entry-content">
+                <p></p>
+                <br>
+                <p><br>
+                </p>
+                <ol>
+                </ol>
+                <p></p>
+                <p><br>
+                </p>
+                <p></p>
+                <p><br>
+                </p>
+                <p><br>
+                </p>
+                <p><br>
+                </p>
+                <p> &nbsp; </p>
+              </div>
+              <!-- #content -->
+              <footer id="colophon" class="site-footer">
+                <div id="footer-navbar" class="footer-navbar">
+                  <nav id="secondary-navigation" class="subordinate-navigation"
+                    role="navigation">
+                    <ul id="menu-footmenu" class="menu">
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a
+                          indepth="true" href="index.html">Ermers Consultancy</a></li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page"><a
+                          indepth="true" href="contact.html">Contact</a></li>
+                    </ul>
+                  </nav>
+                  <!-- #secondary-navigation --> </div>
+                <!-- #footer-navbar --> </footer>
+              <!-- #colophon --> </article>
+          </div>
+          <!-- #page -->
+          <script type="text/javascript" src="navigation.js"></script>
+          <script type="text/javascript" src="skip-link-focus-fix.js"></script>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
