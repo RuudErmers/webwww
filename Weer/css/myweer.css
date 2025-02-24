@@ -1,0 +1,34 @@
+
+div.statwhite {
+background: #FFFFFF;
+}
+
+table.stat {
+background: #004E98;
+	color: white ;
+	font-family: Arial;
+  font-size : 12px;
+  cursor:default;	
+	white-space: nowrap; 
+	overflow: hidden;
+	text-overflow: ellipsis; 
+}
+
+table.stat tr.reversed  {
+background: #ECE9D8;
+  color : black ; 
+}
+
+.hideextra { white-space: nowrap; overflow: hidden; text-overflow:ellipsis; }
+
+div.default {
+background: #004E98;
+	color: white ;
+	font-family: Arial;
+  font-size : 12px;
+  cursor:default;
+	white-space: nowrap; 
+	overflow: hidden;
+	text-overflow: ellipsis; 
+}
+
